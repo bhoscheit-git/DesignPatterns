@@ -20,6 +20,7 @@ namespace DesignPatterns
             ProxyExample.RunExample();
 
             // Behavioral
+            AdapterExample.RunExample();
             ChainOfResponseExample.RunExample();
             IteratorExample.RunExample();
             MediatorExample.RunExample();
