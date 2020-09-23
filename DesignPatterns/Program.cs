@@ -22,6 +22,7 @@ namespace DesignPatterns
             // Behavioral
             ChainOfResponseExample.RunExample();
             IteratorExample.RunExample();
+            MediatorExample.RunExample();
             ObserverExample.RunExample();
             StrategyExample.RunExample();
 
