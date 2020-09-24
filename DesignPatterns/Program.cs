@@ -1,5 +1,6 @@
 ﻿using DesignPatterns.Behavioral;
 using DesignPatterns.Creational;
+using DesignPatterns.OtherLearning;
 using DesignPatterns.Structural;
 using System;
 
@@ -28,7 +29,10 @@ namespace DesignPatterns
             StrategyExample.RunExample();
 
 
-            
+
+            var delegateAndEvents = new DelegateAndEventExample();
+            delegateAndEvents.RunDelegateExample();
+            delegateAndEvents.RunEventExample();
 
 
 
